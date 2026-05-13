@@ -45,12 +45,7 @@ notebooks/
     01_data_preparation.ipynb   # Data loading, cleaning, and EDA
     02_congestion_detection.ipynb  # Isolation Forest and K-means clustering
     03_predictive_analytics.ipynb  # Random Forest forecasting pipeline
-outputs/
-    anomalous_locations.csv     # Flagged high-anomaly zones
-    cluster_assignments.csv     # Zone classifications per location
-    traffic_forecast.csv        # Predicted vs actual traffic speeds
-report/
-    smart_city_report.pdf       # Full project write-up
+
 ```
 
 ---
